@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Basic-Mail-Sender/.idea/Basic-Mail-Sender.iml" filepath="$PROJECT_DIR$/../Basic-Mail-Sender/.idea/Basic-Mail-Sender.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/github_exercise.iml" filepath="$PROJECT_DIR$/.idea/github_exercise.iml" />
     </modules>
   </component>
